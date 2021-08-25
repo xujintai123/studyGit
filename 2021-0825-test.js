@@ -14,4 +14,5 @@ class StudyGit {
   conclusion1(){
     console.log('git reset HEAD命令将‘暂存区改动’移动到工作区');
   }
+  
 }

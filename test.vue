@@ -1,10 +1,5 @@
 <template>
     <div class="container">
-
-        <template v-if='cancel'>
-            
-        </template>
-
         <!-- 原先逻辑 -->
         <template>
             <el-tooltip
